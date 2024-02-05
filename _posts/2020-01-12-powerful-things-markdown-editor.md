@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Think of a number: How to Program a Quantum Computer"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/4.jpg
+image: assets/images/quantumcomputer.png
 ---
 There are lots of powerful things you can do with the Markdown editor
 
