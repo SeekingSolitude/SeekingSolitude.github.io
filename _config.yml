@@ -5,6 +5,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logoquantum.png'
 favicon: 'assets/images/quantumlogo.ico'
+author: OneQuantumPH
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
