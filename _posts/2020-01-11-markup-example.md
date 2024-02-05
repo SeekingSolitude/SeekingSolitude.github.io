@@ -1,26 +1,14 @@
 ---
 layout: post
 title:  "Quantum Computing: Programming the Quantum Dice"
-author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/quantumdice.png
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.
+The power of quantum computing comes from the superposition of states which allows us to do computation in parallel. From an input of 1 qubit, we can do parallel computation of 2 integers (0 and 1). From an input of 2 qubits, we can do parallel computation of 4 numbers (0, 1, 2, 3) and so on. In general, for an n number, we can do parallel computation of <math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msup>
+    <mn>2</mn>
+    <mi>n</mi>
+  </msup>
+</math>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+A quantum computer allows us to simulate easily the roll of a dice. Imagine, for the sake of simplicity, say we have a 4-faced honest die with faces 0, 1, 2 ,3. Since there are 4 faces, the probability of getting any face is 1/4.

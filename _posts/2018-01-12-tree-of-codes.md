@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Vector State Probability"
-author: Bobby Corpus
 categories: [Jekyll, tutorial]
 image: assets/images/vectorstateprobability.png
 ---
