@@ -2,9 +2,9 @@
 
 ### Technologies used
 
--**Jekyll**: [4.3.3]
+- **Jekyll**: [4.3.3]
 
--**Github Pages**
+- **Github Pages**
 
 
 ### How to Deploy the Website
