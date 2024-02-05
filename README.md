@@ -6,6 +6,7 @@
 
 -**Github Pages**
 
+
 ### How to Deploy the Website
 
 - **Step 1**: Clone this repository 
@@ -17,7 +18,10 @@
     $ gem install bundler
     $ bundle install
     ```
-- **Step 4**: Run `bundle exec jekyll serve`
+- **Step 4**: Run 
+    ```bash
+    $ bundle exec jekyll serve
+    ```
 
 
 ### Challenges Faced in Development
