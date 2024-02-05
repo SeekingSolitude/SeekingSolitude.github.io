@@ -1,6 +1,6 @@
 # OneQuantumPH Product Engineering Assignment
 
-## Technologies used
+### Technologies used
 
 -**Jekyll**: [4.3.3]
 
@@ -20,7 +20,7 @@
 - **Step 4**: Run `bundle exec jekyll serve`
 
 
-## Challenges Faced in Development
+### Challenges Faced in Development
 
 This was actually my first time using Jekyll and deploying a website through Github pages, so I encountered a few challenges while developing this, which I'll be listing down here.
 
